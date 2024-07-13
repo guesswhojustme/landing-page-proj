@@ -70,6 +70,11 @@ a{
     border-radius: 6px;
     font-size: 16px;
     font-weight: bold;
+    box-shadow: 5px 5px black;
+}
+.hero-content button:hover{
+    border: 2px white solid;
+    background-color: #1F2937;
 }
 .img{
     padding-top: 30px;
@@ -162,6 +167,7 @@ a{
 }
 .button button{
     border: 2px white solid;
+    box-shadow: 5px 5px black;
     border-radius: 8px;
     height: 34px;
     width: 130px;
@@ -169,6 +175,9 @@ a{
     font-weight: bold;
     color: white;
     background-color: #3882F6;
+}
+.button button:hover{
+    background-color: #1F2937;
 }
 .call{
 }
