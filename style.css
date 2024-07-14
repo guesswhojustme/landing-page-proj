@@ -149,7 +149,12 @@ a{
     justify-content: center;
 }
 .call{
+    padding: 20px;
     color: white;
+}
+#action{
+    font-size: 32px;
+    font-weight: 900;
 }
 .call-wrapper{
     margin-top: 50px;
